@@ -33,13 +33,19 @@ Data Modeling<br>
 
 ## Dashboard Insights
 
-This report helps users analyze:<br>
-Key performance metrics<br>
-Trend analysis<br>
-Category comparisons<br>
-Data distribution patterns<br>
+Business is highly product-category dependent on Bikes.<br>
+Accessories and Clothing represent growth opportunities.<br>
+Target not fully reached → potential improvement in marketing or pricing strategy.<br>
+Customer base is diversified → lower business risk.<br>
+Top products show consistent demand → strong product-market fit.<br>
 
-(Replace these with actual insights from your dashboard)
+
+## Dashboard Preview
+<img src="Screenshot%202026-02-11%20151234.png" width="600">
+
+## Graphs
+<img src="Screenshot%202026-02-11%20151208.png" width="400">          
+<img src="Screenshot%202026-02-11%20151323.png" width="400">
 
 ## Learning Outcomes
 
